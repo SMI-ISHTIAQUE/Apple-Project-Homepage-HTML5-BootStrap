@@ -1,9 +1,6 @@
-# Apple-Project-Homepage-HTML5-BootStrap
+# Homepage-HTML5-BootStrap
 
 # HTML5 | BootStrap Project
--- Apple Homepage Concept
-
-✨Project Preview - https://www.youtube.com/watch?v=v47i8c4NypQ
 
 # Snapshots
 
